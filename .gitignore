@@ -1,0 +1,46 @@
+# Compiled files
+*.o
+*.pyc
+*.pyo
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Model files
+*.h5
+*.pth
+
+# TensorBoard logs
+logs/
+
+# Virtual environment
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Data files
+data/
+
+# Compiled binaries
+bin/
+
+# Package files
+*.egg-info/
+dist/
+
+# Miscellaneous
+.DS_Store
+
+# Docs
+.pdf
+PACS/
+
+.dist
+*.pdf
